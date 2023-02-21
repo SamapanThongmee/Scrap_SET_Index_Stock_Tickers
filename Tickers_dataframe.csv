@@ -1,0 +1,680 @@
+,Ticker,Industry,Sector,Industry_Fullname,Sector_Fullname
+0,EE,AGRO,AGRI,Agro & Food Industry,Agribusiness
+1,GFPT,AGRO,AGRI,Agro & Food Industry,Agribusiness
+2,LEE,AGRO,AGRI,Agro & Food Industry,Agribusiness
+3,MAX,AGRO,AGRI,Agro & Food Industry,Agribusiness
+4,NER,AGRO,AGRI,Agro & Food Industry,Agribusiness
+5,PPPM,AGRO,AGRI,Agro & Food Industry,Agribusiness
+6,STA,AGRO,AGRI,Agro & Food Industry,Agribusiness
+7,TEGH,AGRO,AGRI,Agro & Food Industry,Agribusiness
+8,TFM,AGRO,AGRI,Agro & Food Industry,Agribusiness
+9,TRUBB,AGRO,AGRI,Agro & Food Industry,Agribusiness
+10,TWPC,AGRO,AGRI,Agro & Food Industry,Agribusiness
+11,UPOIC,AGRO,AGRI,Agro & Food Industry,Agribusiness
+12,UVAN,AGRO,AGRI,Agro & Food Industry,Agribusiness
+13,VPO,AGRO,AGRI,Agro & Food Industry,Agribusiness
+0,AAI,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+1,APURE,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+2,ASIAN,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+3,BR,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+4,BRR,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+5,BTG,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+6,CBG,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+7,CFRESH,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+8,CH,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+9,CHOTI,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+10,CM,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+11,CPF,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+12,CPI,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+13,F&D,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+14,GLOCON,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+15,HTC,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+16,ICHI,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+17,ITC,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+18,JDF,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+19,KBS,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+20,KSL,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+21,KTIS,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+22,LST,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+23,M,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+24,MALEE,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+25,MINT,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+26,NRF,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+27,NSL,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+28,OISHI,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+29,OSP,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+30,PB,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+31,PLUS,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+32,PM,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+33,PQS,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+34,PRG,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+35,RBF,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+36,SAPPE,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+37,SAUCE,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+38,SFP,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+39,SNNP,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+40,SNP,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+41,SORKON,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+42,SSC,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+43,SSF,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+44,SST,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+45,SUN,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+46,TC,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+47,TFG,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+48,TFMAMA,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+49,TIPCO,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+50,TKN,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+51,TU,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+52,TVO,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+53,W,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+54,ZEN,AGRO,FOOD,Agro & Food Industry,Food & Beverage
+0,AFC,CONSUMP,FASHION,Consumer Products,Fashion
+1,AURA,CONSUMP,FASHION,Consumer Products,Fashion
+2,BTNC,CONSUMP,FASHION,Consumer Products,Fashion
+3,CPH,CONSUMP,FASHION,Consumer Products,Fashion
+4,CPL,CONSUMP,FASHION,Consumer Products,Fashion
+5,NC,CONSUMP,FASHION,Consumer Products,Fashion
+6,PAF,CONSUMP,FASHION,Consumer Products,Fashion
+7,PDJ,CONSUMP,FASHION,Consumer Products,Fashion
+8,PG,CONSUMP,FASHION,Consumer Products,Fashion
+9,SABINA,CONSUMP,FASHION,Consumer Products,Fashion
+10,SAWANG,CONSUMP,FASHION,Consumer Products,Fashion
+11,SUC,CONSUMP,FASHION,Consumer Products,Fashion
+12,TNL,CONSUMP,FASHION,Consumer Products,Fashion
+13,TR,CONSUMP,FASHION,Consumer Products,Fashion
+14,TTI,CONSUMP,FASHION,Consumer Products,Fashion
+15,TTT,CONSUMP,FASHION,Consumer Products,Fashion
+16,UPF,CONSUMP,FASHION,Consumer Products,Fashion
+17,WACOAL,CONSUMP,FASHION,Consumer Products,Fashion
+18,WFX,CONSUMP,FASHION,Consumer Products,Fashion
+0,AJA,CONSUMP,HOME,Consumer Products,Home & Office Products
+1,DTCI,CONSUMP,HOME,Consumer Products,Home & Office Products
+2,FANCY,CONSUMP,HOME,Consumer Products,Home & Office Products
+3,FTI,CONSUMP,HOME,Consumer Products,Home & Office Products
+4,KYE,CONSUMP,HOME,Consumer Products,Home & Office Products
+5,L&E,CONSUMP,HOME,Consumer Products,Home & Office Products
+6,MODERN,CONSUMP,HOME,Consumer Products,Home & Office Products
+7,OGC,CONSUMP,HOME,Consumer Products,Home & Office Products
+8,ROCK,CONSUMP,HOME,Consumer Products,Home & Office Products
+9,SIAM,CONSUMP,HOME,Consumer Products,Home & Office Products
+10,TCMC,CONSUMP,HOME,Consumer Products,Home & Office Products
+11,TSR,CONSUMP,HOME,Consumer Products,Home & Office Products
+0,APCO,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+1,BIZ,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+2,DDD,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+3,JCT,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+4,KISS,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+5,NV,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+6,OCC,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+7,S&J,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+8,STGT,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+9,STHAI,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+10,TNR,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+11,TOG,CONSUMP,PERSON,Consumer Products,Personal Products & Pharmaceuticals
+0,BAY,FINCIAL,BANK,Financials,Banking
+1,BBL,FINCIAL,BANK,Financials,Banking
+2,CIMBT,FINCIAL,BANK,Financials,Banking
+3,KBANK,FINCIAL,BANK,Financials,Banking
+4,KKP,FINCIAL,BANK,Financials,Banking
+5,KTB,FINCIAL,BANK,Financials,Banking
+6,LHFG,FINCIAL,BANK,Financials,Banking
+7,SCB,FINCIAL,BANK,Financials,Banking
+8,TCAP,FINCIAL,BANK,Financials,Banking
+9,TISCO,FINCIAL,BANK,Financials,Banking
+10,TTB,FINCIAL,BANK,Financials,Banking
+0,AEONTS,FINCIAL,FIN,Financials,Finance & Securities
+1,AMANAH,FINCIAL,FIN,Financials,Finance & Securities
+2,ASAP,FINCIAL,FIN,Financials,Finance & Securities
+3,ASK,FINCIAL,FIN,Financials,Finance & Securities
+4,ASP,FINCIAL,FIN,Financials,Finance & Securities
+5,BAM,FINCIAL,FIN,Financials,Finance & Securities
+6,BYD,FINCIAL,FIN,Financials,Finance & Securities
+7,CGH,FINCIAL,FIN,Financials,Finance & Securities
+8,CHASE,FINCIAL,FIN,Financials,Finance & Securities
+9,CHAYO,FINCIAL,FIN,Financials,Finance & Securities
+10,ECL,FINCIAL,FIN,Financials,Finance & Securities
+11,FNS,FINCIAL,FIN,Financials,Finance & Securities
+12,FSS,FINCIAL,FIN,Financials,Finance & Securities
+13,GBX,FINCIAL,FIN,Financials,Finance & Securities
+14,GL,FINCIAL,FIN,Financials,Finance & Securities
+15,HENG,FINCIAL,FIN,Financials,Finance & Securities
+16,IFS,FINCIAL,FIN,Financials,Finance & Securities
+17,JMT,FINCIAL,FIN,Financials,Finance & Securities
+18,KCAR,FINCIAL,FIN,Financials,Finance & Securities
+19,KGI,FINCIAL,FIN,Financials,Finance & Securities
+20,KTC,FINCIAL,FIN,Financials,Finance & Securities
+21,MFC,FINCIAL,FIN,Financials,Finance & Securities
+22,MICRO,FINCIAL,FIN,Financials,Finance & Securities
+23,ML,FINCIAL,FIN,Financials,Finance & Securities
+24,MST,FINCIAL,FIN,Financials,Finance & Securities
+25,MTC,FINCIAL,FIN,Financials,Finance & Securities
+26,NCAP,FINCIAL,FIN,Financials,Finance & Securities
+27,PL,FINCIAL,FIN,Financials,Finance & Securities
+28,S11,FINCIAL,FIN,Financials,Finance & Securities
+29,SAK,FINCIAL,FIN,Financials,Finance & Securities
+30,SAWAD,FINCIAL,FIN,Financials,Finance & Securities
+31,SCAP,FINCIAL,FIN,Financials,Finance & Securities
+32,SGC,FINCIAL,FIN,Financials,Finance & Securities
+33,SM,FINCIAL,FIN,Financials,Finance & Securities
+34,TH,FINCIAL,FIN,Financials,Finance & Securities
+35,THANI,FINCIAL,FIN,Financials,Finance & Securities
+36,TIDLOR,FINCIAL,FIN,Financials,Finance & Securities
+37,TK,FINCIAL,FIN,Financials,Finance & Securities
+38,TNITY,FINCIAL,FIN,Financials,Finance & Securities
+39,UOBKH,FINCIAL,FIN,Financials,Finance & Securities
+40,XPG,FINCIAL,FIN,Financials,Finance & Securities
+0,AYUD,FINCIAL,INSUR,Financials,Insurance
+1,BKI,FINCIAL,INSUR,Financials,Insurance
+2,BLA,FINCIAL,INSUR,Financials,Insurance
+3,BUI,FINCIAL,INSUR,Financials,Insurance
+4,CHARAN,FINCIAL,INSUR,Financials,Insurance
+5,INSURE,FINCIAL,INSUR,Financials,Insurance
+6,KWI,FINCIAL,INSUR,Financials,Insurance
+7,MTI,FINCIAL,INSUR,Financials,Insurance
+8,NKI,FINCIAL,INSUR,Financials,Insurance
+9,NSI,FINCIAL,INSUR,Financials,Insurance
+10,SMK,FINCIAL,INSUR,Financials,Insurance
+11,TGH,FINCIAL,INSUR,Financials,Insurance
+12,THRE,FINCIAL,INSUR,Financials,Insurance
+13,THREL,FINCIAL,INSUR,Financials,Insurance
+14,TIPH,FINCIAL,INSUR,Financials,Insurance
+15,TLI,FINCIAL,INSUR,Financials,Insurance
+16,TQM,FINCIAL,INSUR,Financials,Insurance
+17,TSI,FINCIAL,INSUR,Financials,Insurance
+18,TVI,FINCIAL,INSUR,Financials,Insurance
+0,3K-BAT,INDUS,AUTO,Industrials,Automotive
+1,ACG,INDUS,AUTO,Industrials,Automotive
+2,AH,INDUS,AUTO,Industrials,Automotive
+3,CWT,INDUS,AUTO,Industrials,Automotive
+4,EASON,INDUS,AUTO,Industrials,Automotive
+5,GYT,INDUS,AUTO,Industrials,Automotive
+6,HFT,INDUS,AUTO,Industrials,Automotive
+7,IHL,INDUS,AUTO,Industrials,Automotive
+8,INGRS,INDUS,AUTO,Industrials,Automotive
+9,IRC,INDUS,AUTO,Industrials,Automotive
+10,PCSGH,INDUS,AUTO,Industrials,Automotive
+11,POLY,INDUS,AUTO,Industrials,Automotive
+12,SAT,INDUS,AUTO,Industrials,Automotive
+13,SPG,INDUS,AUTO,Industrials,Automotive
+14,STANLY,INDUS,AUTO,Industrials,Automotive
+15,TKT,INDUS,AUTO,Industrials,Automotive
+16,TNPC,INDUS,AUTO,Industrials,Automotive
+17,TRU,INDUS,AUTO,Industrials,Automotive
+18,TSC,INDUS,AUTO,Industrials,Automotive
+0,ALLA,INDUS,IMM,Industrials,Industrial Materials & Machinery
+1,ASEFA,INDUS,IMM,Industrials,Industrial Materials & Machinery
+2,CPT,INDUS,IMM,Industrials,Industrial Materials & Machinery
+3,CRANE,INDUS,IMM,Industrials,Industrial Materials & Machinery
+4,CTW,INDUS,IMM,Industrials,Industrial Materials & Machinery
+5,FMT,INDUS,IMM,Industrials,Industrial Materials & Machinery
+6,HTECH,INDUS,IMM,Industrials,Industrial Materials & Machinery
+7,KKC,INDUS,IMM,Industrials,Industrial Materials & Machinery
+8,PK,INDUS,IMM,Industrials,Industrial Materials & Machinery
+9,SNC,INDUS,IMM,Industrials,Industrial Materials & Machinery
+10,STARK,INDUS,IMM,Industrials,Industrial Materials & Machinery
+11,TCJ,INDUS,IMM,Industrials,Industrial Materials & Machinery
+12,TPCS,INDUS,IMM,Industrials,Industrial Materials & Machinery
+13,VARO,INDUS,IMM,Industrials,Industrial Materials & Machinery
+0,UTP,INDUS,PAPER,Industrials,Paper & Printing Materials
+0,BCT,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+1,CMAN,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+2,GC,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+3,GGC,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+4,GIFT,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+5,IVL,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+6,NFC,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+7,PATO,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+8,PMTA,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+9,PTTGC,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+10,SUTHA,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+11,TCCC,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+12,TPA,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+13,UAC,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+14,UP,INDUS,PETRO,Industrials,Petrochemicals & Chemicals
+0,AJ,INDUS,PKG,Industrials,Packaging
+1,ALUCON,INDUS,PKG,Industrials,Packaging
+2,BGC,INDUS,PKG,Industrials,Packaging
+3,CSC,INDUS,PKG,Industrials,Packaging
+4,NEP,INDUS,PKG,Industrials,Packaging
+5,PTL,INDUS,PKG,Industrials,Packaging
+6,SCGP,INDUS,PKG,Industrials,Packaging
+7,SFLEX,INDUS,PKG,Industrials,Packaging
+8,SITHAI,INDUS,PKG,Industrials,Packaging
+9,SLP,INDUS,PKG,Industrials,Packaging
+10,SMPC,INDUS,PKG,Industrials,Packaging
+11,SPACK,INDUS,PKG,Industrials,Packaging
+12,TCOAT,INDUS,PKG,Industrials,Packaging
+13,TFI,INDUS,PKG,Industrials,Packaging
+14,THIP,INDUS,PKG,Industrials,Packaging
+15,TMD,INDUS,PKG,Industrials,Packaging
+16,TOPP,INDUS,PKG,Industrials,Packaging
+17,TPAC,INDUS,PKG,Industrials,Packaging
+18,TPBI,INDUS,PKG,Industrials,Packaging
+19,TPP,INDUS,PKG,Industrials,Packaging
+0,2S,INDUS,STEEL,Industrials,Steel & Metal Products
+1,AMC,INDUS,STEEL,Industrials,Steel & Metal Products
+2,BSBM,INDUS,STEEL,Industrials,Steel & Metal Products
+3,CEN,INDUS,STEEL,Industrials,Steel & Metal Products
+4,CITY,INDUS,STEEL,Industrials,Steel & Metal Products
+5,CSP,INDUS,STEEL,Industrials,Steel & Metal Products
+6,GJS,INDUS,STEEL,Industrials,Steel & Metal Products
+7,GSTEEL,INDUS,STEEL,Industrials,Steel & Metal Products
+8,INOX,INDUS,STEEL,Industrials,Steel & Metal Products
+9,LHK,INDUS,STEEL,Industrials,Steel & Metal Products
+10,MCS,INDUS,STEEL,Industrials,Steel & Metal Products
+11,MILL,INDUS,STEEL,Industrials,Steel & Metal Products
+12,PAP,INDUS,STEEL,Industrials,Steel & Metal Products
+13,PERM,INDUS,STEEL,Industrials,Steel & Metal Products
+14,SAM,INDUS,STEEL,Industrials,Steel & Metal Products
+15,SMIT,INDUS,STEEL,Industrials,Steel & Metal Products
+16,SSSC,INDUS,STEEL,Industrials,Steel & Metal Products
+17,TGPRO,INDUS,STEEL,Industrials,Steel & Metal Products
+18,THE,INDUS,STEEL,Industrials,Steel & Metal Products
+19,TMT,INDUS,STEEL,Industrials,Steel & Metal Products
+20,TSTH,INDUS,STEEL,Industrials,Steel & Metal Products
+21,TWP,INDUS,STEEL,Industrials,Steel & Metal Products
+22,TYCN,INDUS,STEEL,Industrials,Steel & Metal Products
+0,CCP,PROPCON,CONMAT,Property & Construction,Construction Materials
+1,COTTO,PROPCON,CONMAT,Property & Construction,Construction Materials
+2,DCC,PROPCON,CONMAT,Property & Construction,Construction Materials
+3,DCON,PROPCON,CONMAT,Property & Construction,Construction Materials
+4,DRT,PROPCON,CONMAT,Property & Construction,Construction Materials
+5,EPG,PROPCON,CONMAT,Property & Construction,Construction Materials
+6,GEL,PROPCON,CONMAT,Property & Construction,Construction Materials
+7,PPP,PROPCON,CONMAT,Property & Construction,Construction Materials
+8,Q-CON,PROPCON,CONMAT,Property & Construction,Construction Materials
+9,SCC,PROPCON,CONMAT,Property & Construction,Construction Materials
+10,SCCC,PROPCON,CONMAT,Property & Construction,Construction Materials
+11,SCP,PROPCON,CONMAT,Property & Construction,Construction Materials
+12,SKN,PROPCON,CONMAT,Property & Construction,Construction Materials
+13,STECH,PROPCON,CONMAT,Property & Construction,Construction Materials
+14,TASCO,PROPCON,CONMAT,Property & Construction,Construction Materials
+15,TOA,PROPCON,CONMAT,Property & Construction,Construction Materials
+16,TPIPL,PROPCON,CONMAT,Property & Construction,Construction Materials
+17,UMI,PROPCON,CONMAT,Property & Construction,Construction Materials
+18,VNG,PROPCON,CONMAT,Property & Construction,Construction Materials
+19,WIIK,PROPCON,CONMAT,Property & Construction,Construction Materials
+0,APCS,PROPCON,CONS,Property & Construction,Construction Services
+1,BJCHI,PROPCON,CONS,Property & Construction,Construction Services
+2,BKD,PROPCON,CONS,Property & Construction,Construction Services
+3,CIVIL,PROPCON,CONS,Property & Construction,Construction Services
+4,CK,PROPCON,CONS,Property & Construction,Construction Services
+5,CNT,PROPCON,CONS,Property & Construction,Construction Services
+6,EMC,PROPCON,CONS,Property & Construction,Construction Services
+7,ITD,PROPCON,CONS,Property & Construction,Construction Services
+8,NWR,PROPCON,CONS,Property & Construction,Construction Services
+9,PLE,PROPCON,CONS,Property & Construction,Construction Services
+10,PREB,PROPCON,CONS,Property & Construction,Construction Services
+11,PYLON,PROPCON,CONS,Property & Construction,Construction Services
+12,RT,PROPCON,CONS,Property & Construction,Construction Services
+13,SEAFCO,PROPCON,CONS,Property & Construction,Construction Services
+14,SQ,PROPCON,CONS,Property & Construction,Construction Services
+15,SRICHA,PROPCON,CONS,Property & Construction,Construction Services
+16,STEC,PROPCON,CONS,Property & Construction,Construction Services
+17,STI,PROPCON,CONS,Property & Construction,Construction Services
+18,STPI,PROPCON,CONS,Property & Construction,Construction Services
+19,SYNTEC,PROPCON,CONS,Property & Construction,Construction Services
+20,TEAMG,PROPCON,CONS,Property & Construction,Construction Services
+21,TEKA,PROPCON,CONS,Property & Construction,Construction Services
+22,TPOLY,PROPCON,CONS,Property & Construction,Construction Services
+23,TRC,PROPCON,CONS,Property & Construction,Construction Services
+24,TRITN,PROPCON,CONS,Property & Construction,Construction Services
+25,TTCL,PROPCON,CONS,Property & Construction,Construction Services
+26,UNIQ,PROPCON,CONS,Property & Construction,Construction Services
+27,WGE,PROPCON,CONS,Property & Construction,Construction Services
+0,AIMCG,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+1,AIMIRT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+2,ALLY,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+3,AMATAR,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+4,B-WORK,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+5,BAREIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+6,BKKCP,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+7,BOFFICE,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+8,CPNCG,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+9,CPNREIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+10,CPTGF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+11,CTARAF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+12,DREIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+13,ERWPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+14,FTREIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+15,FUTUREPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+16,GAHREIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+17,GROREIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+18,GVREIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+19,HPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+20,HYDROGEN,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+21,IMPACT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+22,INETREIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+23,KPNPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+24,KTBSTMR,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+25,LHHOTEL,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+26,LHPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+27,LHSC,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+28,LPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+29,LUXF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+30,M-II,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+31,M-PAT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+32,M-STOR,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+33,MIPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+34,MIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+35,MJLF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+36,MNIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+37,MNIT2,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+38,MNRF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+39,POPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+40,PPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+41,PROSPECT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+42,QHHR,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+43,QHOP,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+44,QHPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+45,SHREIT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+46,SIRIP,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+47,SPRIME,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+48,SRIPANWA,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+49,SSPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+50,SSTRT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+51,TIF1,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+52,TLHPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+53,TNPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+54,TPRIME,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+55,TTLPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+56,TU-PF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+57,URBNPF,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+58,WHABT,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+59,WHAIR,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+60,WHART,PROPCON,PF&REITs,Property & Construction,Property Fund & REITs
+0,A,PROPCON,PROP,Property & Construction,Property Development
+1,AMATA,PROPCON,PROP,Property & Construction,Property Development
+2,AMATAV,PROPCON,PROP,Property & Construction,Property Development
+3,ANAN,PROPCON,PROP,Property & Construction,Property Development
+4,AP,PROPCON,PROP,Property & Construction,Property Development
+5,APEX,PROPCON,PROP,Property & Construction,Property Development
+6,AQ,PROPCON,PROP,Property & Construction,Property Development
+7,ASW,PROPCON,PROP,Property & Construction,Property Development
+8,AWC,PROPCON,PROP,Property & Construction,Property Development
+9,BLAND,PROPCON,PROP,Property & Construction,Property Development
+10,BRI,PROPCON,PROP,Property & Construction,Property Development
+11,BROCK,PROPCON,PROP,Property & Construction,Property Development
+12,CGD,PROPCON,PROP,Property & Construction,Property Development
+13,CI,PROPCON,PROP,Property & Construction,Property Development
+14,CMC,PROPCON,PROP,Property & Construction,Property Development
+15,CPN,PROPCON,PROP,Property & Construction,Property Development
+16,ESTAR,PROPCON,PROP,Property & Construction,Property Development
+17,EVER,PROPCON,PROP,Property & Construction,Property Development
+18,FPT,PROPCON,PROP,Property & Construction,Property Development
+19,GLAND,PROPCON,PROP,Property & Construction,Property Development
+20,J,PROPCON,PROP,Property & Construction,Property Development
+21,JCK,PROPCON,PROP,Property & Construction,Property Development
+22,KC,PROPCON,PROP,Property & Construction,Property Development
+23,LALIN,PROPCON,PROP,Property & Construction,Property Development
+24,LH,PROPCON,PROP,Property & Construction,Property Development
+25,LPN,PROPCON,PROP,Property & Construction,Property Development
+26,MBK,PROPCON,PROP,Property & Construction,Property Development
+27,MJD,PROPCON,PROP,Property & Construction,Property Development
+28,MK,PROPCON,PROP,Property & Construction,Property Development
+29,NCH,PROPCON,PROP,Property & Construction,Property Development
+30,NNCL,PROPCON,PROP,Property & Construction,Property Development
+31,NOBLE,PROPCON,PROP,Property & Construction,Property Development
+32,NUSA,PROPCON,PROP,Property & Construction,Property Development
+33,NVD,PROPCON,PROP,Property & Construction,Property Development
+34,ORI,PROPCON,PROP,Property & Construction,Property Development
+35,PACE,PROPCON,PROP,Property & Construction,Property Development
+36,PEACE,PROPCON,PROP,Property & Construction,Property Development
+37,PF,PROPCON,PROP,Property & Construction,Property Development
+38,PIN,PROPCON,PROP,Property & Construction,Property Development
+39,PLAT,PROPCON,PROP,Property & Construction,Property Development
+40,POLAR,PROPCON,PROP,Property & Construction,Property Development
+41,PRECHA,PROPCON,PROP,Property & Construction,Property Development
+42,PRIN,PROPCON,PROP,Property & Construction,Property Development
+43,PSH,PROPCON,PROP,Property & Construction,Property Development
+44,QH,PROPCON,PROP,Property & Construction,Property Development
+45,RABBIT,PROPCON,PROP,Property & Construction,Property Development
+46,RICHY,PROPCON,PROP,Property & Construction,Property Development
+47,RML,PROPCON,PROP,Property & Construction,Property Development
+48,ROJNA,PROPCON,PROP,Property & Construction,Property Development
+49,S,PROPCON,PROP,Property & Construction,Property Development
+50,SA,PROPCON,PROP,Property & Construction,Property Development
+51,SAMCO,PROPCON,PROP,Property & Construction,Property Development
+52,SC,PROPCON,PROP,Property & Construction,Property Development
+53,SENA,PROPCON,PROP,Property & Construction,Property Development
+54,SIRI,PROPCON,PROP,Property & Construction,Property Development
+55,SPALI,PROPCON,PROP,Property & Construction,Property Development
+56,UV,PROPCON,PROP,Property & Construction,Property Development
+57,WHA,PROPCON,PROP,Property & Construction,Property Development
+58,WIN,PROPCON,PROP,Property & Construction,Property Development
+0,7UP,RESOURC,ENERG,Resources,Energy & Utilities
+1,ACC,RESOURC,ENERG,Resources,Energy & Utilities
+2,ACE,RESOURC,ENERG,Resources,Energy & Utilities
+3,AGE,RESOURC,ENERG,Resources,Energy & Utilities
+4,AI,RESOURC,ENERG,Resources,Energy & Utilities
+5,AIE,RESOURC,ENERG,Resources,Energy & Utilities
+6,AKR,RESOURC,ENERG,Resources,Energy & Utilities
+7,BAFS,RESOURC,ENERG,Resources,Energy & Utilities
+8,BANPU,RESOURC,ENERG,Resources,Energy & Utilities
+9,BBGI,RESOURC,ENERG,Resources,Energy & Utilities
+10,BCP,RESOURC,ENERG,Resources,Energy & Utilities
+11,BCPG,RESOURC,ENERG,Resources,Energy & Utilities
+12,BGRIM,RESOURC,ENERG,Resources,Energy & Utilities
+13,BPP,RESOURC,ENERG,Resources,Energy & Utilities
+14,BRRGIF,RESOURC,ENERG,Resources,Energy & Utilities
+15,CKP,RESOURC,ENERG,Resources,Energy & Utilities
+16,CV,RESOURC,ENERG,Resources,Energy & Utilities
+17,DEMCO,RESOURC,ENERG,Resources,Energy & Utilities
+18,EA,RESOURC,ENERG,Resources,Energy & Utilities
+19,EASTW,RESOURC,ENERG,Resources,Energy & Utilities
+20,EGATIF,RESOURC,ENERG,Resources,Energy & Utilities
+21,EGCO,RESOURC,ENERG,Resources,Energy & Utilities
+22,EP,RESOURC,ENERG,Resources,Energy & Utilities
+23,ESSO,RESOURC,ENERG,Resources,Energy & Utilities
+24,ETC,RESOURC,ENERG,Resources,Energy & Utilities
+25,GPSC,RESOURC,ENERG,Resources,Energy & Utilities
+26,GREEN,RESOURC,ENERG,Resources,Energy & Utilities
+27,GULF,RESOURC,ENERG,Resources,Energy & Utilities
+28,GUNKUL,RESOURC,ENERG,Resources,Energy & Utilities
+29,IFEC,RESOURC,ENERG,Resources,Energy & Utilities
+30,IRPC,RESOURC,ENERG,Resources,Energy & Utilities
+31,JR,RESOURC,ENERG,Resources,Energy & Utilities
+32,KBSPIF,RESOURC,ENERG,Resources,Energy & Utilities
+33,LANNA,RESOURC,ENERG,Resources,Energy & Utilities
+34,MDX,RESOURC,ENERG,Resources,Energy & Utilities
+35,NOVA,RESOURC,ENERG,Resources,Energy & Utilities
+36,OR,RESOURC,ENERG,Resources,Energy & Utilities
+37,PCC,RESOURC,ENERG,Resources,Energy & Utilities
+38,PRIME,RESOURC,ENERG,Resources,Energy & Utilities
+39,PTG,RESOURC,ENERG,Resources,Energy & Utilities
+40,PTT,RESOURC,ENERG,Resources,Energy & Utilities
+41,PTTEP,RESOURC,ENERG,Resources,Energy & Utilities
+42,QTC,RESOURC,ENERG,Resources,Energy & Utilities
+43,RATCH,RESOURC,ENERG,Resources,Energy & Utilities
+44,RPC,RESOURC,ENERG,Resources,Energy & Utilities
+45,SCG,RESOURC,ENERG,Resources,Energy & Utilities
+46,SCI,RESOURC,ENERG,Resources,Energy & Utilities
+47,SCN,RESOURC,ENERG,Resources,Energy & Utilities
+48,SGP,RESOURC,ENERG,Resources,Energy & Utilities
+49,SKE,RESOURC,ENERG,Resources,Energy & Utilities
+50,SOLAR,RESOURC,ENERG,Resources,Energy & Utilities
+51,SPCG,RESOURC,ENERG,Resources,Energy & Utilities
+52,SPRC,RESOURC,ENERG,Resources,Energy & Utilities
+53,SSP,RESOURC,ENERG,Resources,Energy & Utilities
+54,SUPER,RESOURC,ENERG,Resources,Energy & Utilities
+55,SUPEREIF,RESOURC,ENERG,Resources,Energy & Utilities
+56,SUSCO,RESOURC,ENERG,Resources,Energy & Utilities
+57,TAE,RESOURC,ENERG,Resources,Energy & Utilities
+58,TCC,RESOURC,ENERG,Resources,Energy & Utilities
+59,TGE,RESOURC,ENERG,Resources,Energy & Utilities
+60,TOP,RESOURC,ENERG,Resources,Energy & Utilities
+61,TPIPP,RESOURC,ENERG,Resources,Energy & Utilities
+62,TSE,RESOURC,ENERG,Resources,Energy & Utilities
+63,TTW,RESOURC,ENERG,Resources,Energy & Utilities
+64,UBE,RESOURC,ENERG,Resources,Energy & Utilities
+65,WHAUP,RESOURC,ENERG,Resources,Energy & Utilities
+66,WP,RESOURC,ENERG,Resources,Energy & Utilities
+0,B52,SERVICE,COMM,Services,Commerce
+1,BEAUTY,SERVICE,COMM,Services,Commerce
+2,BIG,SERVICE,COMM,Services,Commerce
+3,BJC,SERVICE,COMM,Services,Commerce
+4,COM7,SERVICE,COMM,Services,Commerce
+5,CPALL,SERVICE,COMM,Services,Commerce
+6,CPW,SERVICE,COMM,Services,Commerce
+7,CRC,SERVICE,COMM,Services,Commerce
+8,CSS,SERVICE,COMM,Services,Commerce
+9,DOHOME,SERVICE,COMM,Services,Commerce
+10,FN,SERVICE,COMM,Services,Commerce
+11,FTE,SERVICE,COMM,Services,Commerce
+12,GLOBAL,SERVICE,COMM,Services,Commerce
+13,HMPRO,SERVICE,COMM,Services,Commerce
+14,ICC,SERVICE,COMM,Services,Commerce
+15,ILM,SERVICE,COMM,Services,Commerce
+16,IT,SERVICE,COMM,Services,Commerce
+17,KAMART,SERVICE,COMM,Services,Commerce
+18,LOXLEY,SERVICE,COMM,Services,Commerce
+19,MAKRO,SERVICE,COMM,Services,Commerce
+20,MC,SERVICE,COMM,Services,Commerce
+21,MEGA,SERVICE,COMM,Services,Commerce
+22,MIDA,SERVICE,COMM,Services,Commerce
+23,MOSHI,SERVICE,COMM,Services,Commerce
+24,RS,SERVICE,COMM,Services,Commerce
+25,RSP,SERVICE,COMM,Services,Commerce
+26,SABUY,SERVICE,COMM,Services,Commerce
+27,SCM,SERVICE,COMM,Services,Commerce
+28,SINGER,SERVICE,COMM,Services,Commerce
+29,SPC,SERVICE,COMM,Services,Commerce
+30,SPI,SERVICE,COMM,Services,Commerce
+31,SVT,SERVICE,COMM,Services,Commerce
+0,AHC,SERVICE,HELTH,Services,Health Care Services
+1,BCH,SERVICE,HELTH,Services,Health Care Services
+2,BDMS,SERVICE,HELTH,Services,Health Care Services
+3,BH,SERVICE,HELTH,Services,Health Care Services
+4,CHG,SERVICE,HELTH,Services,Health Care Services
+5,CMR,SERVICE,HELTH,Services,Health Care Services
+6,EKH,SERVICE,HELTH,Services,Health Care Services
+7,KDH,SERVICE,HELTH,Services,Health Care Services
+8,LPH,SERVICE,HELTH,Services,Health Care Services
+9,M-CHAI,SERVICE,HELTH,Services,Health Care Services
+10,NEW,SERVICE,HELTH,Services,Health Care Services
+11,NTV,SERVICE,HELTH,Services,Health Care Services
+12,PR9,SERVICE,HELTH,Services,Health Care Services
+13,PRINC,SERVICE,HELTH,Services,Health Care Services
+14,RAM,SERVICE,HELTH,Services,Health Care Services
+15,RJH,SERVICE,HELTH,Services,Health Care Services
+16,RPH,SERVICE,HELTH,Services,Health Care Services
+17,SKR,SERVICE,HELTH,Services,Health Care Services
+18,THG,SERVICE,HELTH,Services,Health Care Services
+19,VIBHA,SERVICE,HELTH,Services,Health Care Services
+20,VIH,SERVICE,HELTH,Services,Health Care Services
+21,WPH,SERVICE,HELTH,Services,Health Care Services
+0,AMARIN,SERVICE,MEDIA,Services,Media & Publishing
+1,AQUA,SERVICE,MEDIA,Services,Media & Publishing
+2,AS,SERVICE,MEDIA,Services,Media & Publishing
+3,BEC,SERVICE,MEDIA,Services,Media & Publishing
+4,FE,SERVICE,MEDIA,Services,Media & Publishing
+5,GPI,SERVICE,MEDIA,Services,Media & Publishing
+6,GRAMMY,SERVICE,MEDIA,Services,Media & Publishing
+7,JKN,SERVICE,MEDIA,Services,Media & Publishing
+8,MACO,SERVICE,MEDIA,Services,Media & Publishing
+9,MAJOR,SERVICE,MEDIA,Services,Media & Publishing
+10,MATCH,SERVICE,MEDIA,Services,Media & Publishing
+11,MATI,SERVICE,MEDIA,Services,Media & Publishing
+12,MCOT,SERVICE,MEDIA,Services,Media & Publishing
+13,MONO,SERVICE,MEDIA,Services,Media & Publishing
+14,MPIC,SERVICE,MEDIA,Services,Media & Publishing
+15,NATION,SERVICE,MEDIA,Services,Media & Publishing
+16,ONEE,SERVICE,MEDIA,Services,Media & Publishing
+17,PLANB,SERVICE,MEDIA,Services,Media & Publishing
+18,POST,SERVICE,MEDIA,Services,Media & Publishing
+19,PRAKIT,SERVICE,MEDIA,Services,Media & Publishing
+20,PTECH,SERVICE,MEDIA,Services,Media & Publishing
+21,SE-ED,SERVICE,MEDIA,Services,Media & Publishing
+22,TKS,SERVICE,MEDIA,Services,Media & Publishing
+23,VGI,SERVICE,MEDIA,Services,Media & Publishing
+24,WAVE,SERVICE,MEDIA,Services,Media & Publishing
+25,WORK,SERVICE,MEDIA,Services,Media & Publishing
+0,BWG,SERVICE,PROF,Services,Professional Services
+1,GENCO,SERVICE,PROF,Services,Professional Services
+2,PRO,SERVICE,PROF,Services,Professional Services
+3,SISB,SERVICE,PROF,Services,Professional Services
+4,SO,SERVICE,PROF,Services,Professional Services
+0,ASIA,SERVICE,TOURISM,Services,Tourism & Leisure
+1,BEYOND,SERVICE,TOURISM,Services,Tourism & Leisure
+2,CENTEL,SERVICE,TOURISM,Services,Tourism & Leisure
+3,CSR,SERVICE,TOURISM,Services,Tourism & Leisure
+4,DUSIT,SERVICE,TOURISM,Services,Tourism & Leisure
+5,ERW,SERVICE,TOURISM,Services,Tourism & Leisure
+6,GRAND,SERVICE,TOURISM,Services,Tourism & Leisure
+7,LRH,SERVICE,TOURISM,Services,Tourism & Leisure
+8,MANRIN,SERVICE,TOURISM,Services,Tourism & Leisure
+9,OHTL,SERVICE,TOURISM,Services,Tourism & Leisure
+10,ROH,SERVICE,TOURISM,Services,Tourism & Leisure
+11,SHANG,SERVICE,TOURISM,Services,Tourism & Leisure
+12,SHR,SERVICE,TOURISM,Services,Tourism & Leisure
+13,VRANDA,SERVICE,TOURISM,Services,Tourism & Leisure
+0,AAV,SERVICE,TRANS,Services,Transportation & Logistics
+1,AOT,SERVICE,TRANS,Services,Transportation & Logistics
+2,ASIMAR,SERVICE,TRANS,Services,Transportation & Logistics
+3,B,SERVICE,TRANS,Services,Transportation & Logistics
+4,BA,SERVICE,TRANS,Services,Transportation & Logistics
+5,BEM,SERVICE,TRANS,Services,Transportation & Logistics
+6,BIOTEC,SERVICE,TRANS,Services,Transportation & Logistics
+7,BTS,SERVICE,TRANS,Services,Transportation & Logistics
+8,BTSGIF,SERVICE,TRANS,Services,Transportation & Logistics
+9,DMT,SERVICE,TRANS,Services,Transportation & Logistics
+10,III,SERVICE,TRANS,Services,Transportation & Logistics
+11,KEX,SERVICE,TRANS,Services,Transportation & Logistics
+12,KIAT,SERVICE,TRANS,Services,Transportation & Logistics
+13,KWC,SERVICE,TRANS,Services,Transportation & Logistics
+14,MENA,SERVICE,TRANS,Services,Transportation & Logistics
+15,NOK,SERVICE,TRANS,Services,Transportation & Logistics
+16,NYT,SERVICE,TRANS,Services,Transportation & Logistics
+17,PORT,SERVICE,TRANS,Services,Transportation & Logistics
+18,PRM,SERVICE,TRANS,Services,Transportation & Logistics
+19,PSL,SERVICE,TRANS,Services,Transportation & Logistics
+20,RCL,SERVICE,TRANS,Services,Transportation & Logistics
+21,SJWD,SERVICE,TRANS,Services,Transportation & Logistics
+22,TFFIF,SERVICE,TRANS,Services,Transportation & Logistics
+23,THAI,SERVICE,TRANS,Services,Transportation & Logistics
+24,TSTE,SERVICE,TRANS,Services,Transportation & Logistics
+25,TTA,SERVICE,TRANS,Services,Transportation & Logistics
+26,WICE,SERVICE,TRANS,Services,Transportation & Logistics
+0,CCET,TECH,ETRON,Technology,Electronic Components
+1,DELTA,TECH,ETRON,Technology,Electronic Components
+2,HANA,TECH,ETRON,Technology,Electronic Components
+3,KCE,TECH,ETRON,Technology,Electronic Components
+4,METCO,TECH,ETRON,Technology,Electronic Components
+5,NEX,TECH,ETRON,Technology,Electronic Components
+6,SMT,TECH,ETRON,Technology,Electronic Components
+7,SVI,TECH,ETRON,Technology,Electronic Components
+8,TEAM,TECH,ETRON,Technology,Electronic Components
+0,ADVANC,TECH,ICT,Technology,Information & Communication Technology
+1,AIT,TECH,ICT,Technology,Information & Communication Technology
+2,ALT,TECH,ICT,Technology,Information & Communication Technology
+3,AMR,TECH,ICT,Technology,Information & Communication Technology
+4,BLISS,TECH,ICT,Technology,Information & Communication Technology
+5,DIF,TECH,ICT,Technology,Information & Communication Technology
+6,DTAC,TECH,ICT,Technology,Information & Communication Technology
+7,DTCENT,TECH,ICT,Technology,Information & Communication Technology
+8,FORTH,TECH,ICT,Technology,Information & Communication Technology
+9,HUMAN,TECH,ICT,Technology,Information & Communication Technology
+10,ILINK,TECH,ICT,Technology,Information & Communication Technology
+11,INET,TECH,ICT,Technology,Information & Communication Technology
+12,INSET,TECH,ICT,Technology,Information & Communication Technology
+13,INTUCH,TECH,ICT,Technology,Information & Communication Technology
+14,ITEL,TECH,ICT,Technology,Information & Communication Technology
+15,JAS,TECH,ICT,Technology,Information & Communication Technology
+16,JASIF,TECH,ICT,Technology,Information & Communication Technology
+17,JMART,TECH,ICT,Technology,Information & Communication Technology
+18,JTS,TECH,ICT,Technology,Information & Communication Technology
+19,MFEC,TECH,ICT,Technology,Information & Communication Technology
+20,MSC,TECH,ICT,Technology,Information & Communication Technology
+21,PT,TECH,ICT,Technology,Information & Communication Technology
+22,SAMART,TECH,ICT,Technology,Information & Communication Technology
+23,SAMTEL,TECH,ICT,Technology,Information & Communication Technology
+24,SDC,TECH,ICT,Technology,Information & Communication Technology
+25,SIS,TECH,ICT,Technology,Information & Communication Technology
+26,SKY,TECH,ICT,Technology,Information & Communication Technology
+27,SVOA,TECH,ICT,Technology,Information & Communication Technology
+28,SYMC,TECH,ICT,Technology,Information & Communication Technology
+29,SYNEX,TECH,ICT,Technology,Information & Communication Technology
+30,THCOM,TECH,ICT,Technology,Information & Communication Technology
+31,TKC,TECH,ICT,Technology,Information & Communication Technology
+32,TRUEE,TECH,ICT,Technology,Information & Communication Technology
+33,TWZ,TECH,ICT,Technology,Information & Communication Technology
