@@ -5,3 +5,6 @@ This repository contains a Python-based web scraping project that retrieves stoc
 
 #### Importance
 Please download main.ipynb and open in Google Colab
+
+#### Result from web scraping
+<img src="https://github.com/SamapanThongmee/Scrap_SET_Index_Stock_Tickers/blob/main/Scrap_Result.PNG" height="1000" width="600" >
